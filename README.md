@@ -1,1 +1,1 @@
-# Mini-Project-StyleSynce
+# Mini-Project-StyleSync
