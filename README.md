@@ -1,4 +1,4 @@
-# StyleSync – Intelligent Clothing Recognition System
+# StyleSync: Multimodal AI Framework for Intelligent Fashion Recommendations
 
 StyleSync is an AI-powered digital wardrobe system designed to automatically analyze clothing images and classify them based on **category (type)**, **color**, and **gender** using deep learning. The project supports both **Western** and **Indian (ethnic)** fashion and serves as a foundation for smart outfit recommendation and wardrobe management.
 
